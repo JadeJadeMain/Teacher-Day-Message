@@ -15,7 +15,7 @@ Thank you for being the hero in our story of success.
 
 You don't just teach subjects—you teach us to reach for the stars!
 
-Happy Teacher's Day to our incredible mentor!
+Happy Teacher’s Day to our wonderful Dean!
 — Your Forever Grateful Student
 Formentera Jade`;
 
@@ -304,4 +304,5 @@ Formentera Jade`;
             alert("Please interact with the page to enable audio.");
           });
       });
+
     });
