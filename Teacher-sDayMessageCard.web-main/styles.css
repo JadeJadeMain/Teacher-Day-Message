@@ -285,6 +285,12 @@
                 font-size: 11px;
                 padding: 6px;
             }
+
+           #play-btn{
+               width: 100%;
+                height: fit-content;
+                
+           }
         }
         .card {
             width: 700px;
@@ -539,4 +545,5 @@
             background: rgba(255, 255, 255, 0.4);
             transform: scale(1.05);
             color: #000;
+
         }
