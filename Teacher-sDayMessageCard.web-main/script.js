@@ -6,7 +6,7 @@ Every lesson you share ignites the spark of possibility.
 Every word you speak plants seeds of greatness.
 
 You transform minds, inspire hearts, and shape destinies.
-In your classroom, ordinary students become extraordinary dreamers.
+Through your guidance, ordinary students become extraordinary dreamers.
 Your passion lights the path to our brightest future.
 
 Thank you for believing in us when we couldn't believe in ourselves.
@@ -306,3 +306,4 @@ Formentera Jade`;
       });
 
     });
+
